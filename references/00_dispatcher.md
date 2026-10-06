@@ -35,6 +35,11 @@ Once the user provides this context, proceed to Phase 2.
 
 Using the discovery context, your task is to scaffold a lightning-fast static site architecture using **Astro**. 
 
+**Security & Idempotency Rules:**
+*   **Path Sanitization:** You MUST normalize all inputs (Niche, City, Services) to strictly alphanumeric kebab-case (`^[a-z0-9]([a-z0-9-]{0,63})$`).
+*   **No Traversal:** Explicitly reject any `../` or absolute path injections in the user's inputs. 
+*   **Clobber Check:** If the target directory already exists and contains files, ask the user for explicit confirmation before overwriting or proceeding. Create a `.kirby-scrappy-marker` file in the root once scaffolding begins to track idempotency.
+
 **Action Steps:**
 1.  Initialize a new Astro project in the current workspace (or ask the user where to create it).
 2.  **Taxonomy & Architecture:** Create the necessary file structure for the following:
