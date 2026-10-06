@@ -1,6 +1,6 @@
 ---
 name: kirby-scrappy-local-launch
-description: "Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, an Astro template, and a 3-phase launch playbook."
+description: "Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, Astro scaffolding, and a 3-phase launch playbook."
 category: workflow
 triggers: [local seo, $100 local seo, scrappy local launch, local map pack, gbp ranking, zero to local]
 ---

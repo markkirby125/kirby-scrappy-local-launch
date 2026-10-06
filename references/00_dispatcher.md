@@ -51,7 +51,7 @@ When the code scaffolding is complete and verifiable, proceed to Phase 3.
 
 Generate an actionable markdown artifact for the user called `Local_SEO_100_Dollar_Playbook.md`. This artifact is a step-by-step checklist the user must execute themselves.
 
-**The playbook MUST include the following 5 steps exactly:**
+**The playbook MUST include the following 6 steps exactly:**
 
 ### Step 1: The Google Business Profile (GBP)
 *   **Action:** If starting from zero, secure an address. If needed, haggle for a 1-month rental of a dormant commercial office space to get the GBP pin verified.
@@ -73,7 +73,7 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 
 ### Step 6: The Review Engine (The #1 Ranking Factor)
 *   **Rule:** Reviews are the absolute floor for map pack ranking.
-*   **Action 1 (Bootstrap):** Ask immediate friends and family for honest initial reviews to get the ball rolling.
+*   **Action 1 (Bootstrap):** As a one-time exception to the face-to-face rule, ask immediate friends and family who have utilized your services for honest initial reviews to get the ball rolling.
 *   **Action 2 (Face-to-Face):** When doing jobs, provide a free estimate or excellent service. Ask for the review *in person, face-to-face*. Hand them the phone or scan a QR code right then and there. Do not rely on automated email or text sequences—make the social stakes too high for them to say no.
 
 ---

@@ -1,6 +1,6 @@
 # kirby-scrappy-local-launch
 
-Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, an Astro template, and a 3-phase launch playbook.
+Bootstraps a local business to the top of Google Maps using a $100 scrappy SEO framework, Astro scaffolding, and a 3-phase launch playbook.
 
 ### 🪄 The Magic Prompt
 Copy and paste this into any AI coding app (Cursor, Windsurf, Claude Code, Grok, Kimi, Reasonix):
