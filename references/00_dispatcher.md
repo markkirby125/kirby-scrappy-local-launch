@@ -8,7 +8,7 @@ This workflow operates in 3 distinct phases. You must sequentially complete each
 
 ## Pre-Flight Guardrails (MANDATORY)
 
-Before starting the workflow, you MUST ask the user to explicitly confirm the following 3 guardrails. **Do not proceed to Phase 1 until the user confirms all three.**
+Before starting the workflow, you MUST ask the user to explicitly confirm the following 4 guardrails. **Do not proceed to Phase 1 until the user confirms all four.**
 
 1. **Budget:** "Do you have a ~$100 budget ready for foundational citations, indexers, and Tier 2 links?"
 2. **Review Commitment:** "Are you committed to asking for Google Business Profile reviews *face-to-face* on the job site (no emails or text requests)?"
