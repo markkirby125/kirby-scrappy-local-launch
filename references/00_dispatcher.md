@@ -13,6 +13,7 @@ Before starting the workflow, you MUST ask the user to explicitly confirm the fo
 1. **Budget:** "Do you have a ~$100 budget ready for foundational citations, indexers, and Tier 2 links?"
 2. **Review Commitment:** "Are you committed to asking for Google Business Profile reviews *face-to-face* on the job site (no emails or text requests)?"
 3. **Tech Stack Readiness:** "Do you have active accounts for GitHub and either Vercel or Cloudflare (plus a custom domain) for the site scaffolding?"
+4. **Compliance Warning:** "Are you aware that renting dormant offices for verification and purchasing Tier 2 links are considered black-hat tactics that violate Google's ToS and risk profile suspension?"
 
 Once confirmed, proceed to Phase 1.
 
@@ -54,7 +55,7 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 **The playbook MUST include the following 6 steps exactly:**
 
 ### Step 1: The Google Business Profile (GBP)
-*   **Action:** If starting from zero, secure an address. If needed, haggle for a 1-month rental of a dormant commercial office space to get the GBP pin verified.
+*   **Action:** If starting from zero, secure an address. If needed, haggle for a 1-month rental of a dormant commercial office space to get the GBP pin verified. **(WARNING: High ToS Risk - Google requires staffed locations)**
 *   **Goal:** Claim and verify the GBP.
 
 ### Step 2: Citations & Foundational Links (Cost: ~$20)
@@ -62,10 +63,10 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 *   **Action:** Manually claim high-trust profiles: Apple Maps, Yelp, and BBB (if budget allows).
 
 ### Step 3: Indexing (Cost: ~$1)
-*   **Action:** Use an indexing service (like Index Checks) to force Google to index all the citations built in Step 2. Unindexed citations are useless.
+*   **Action:** Use an indexing service (like Index Checks) to force Google to index all the citations built in Step 2. Unindexed citations are useless. **(WARNING: ToS Risk)**
 
 ### Step 4: Tier 2 Links (Cost: ~$10 - $50)
-*   **Action:** Purchase Tier 2 links from trusted vendors and point them directly *at the citations* (not the homepage). This strengthens the entity and keeps the citations indexed.
+*   **Action:** Purchase Tier 2 links from trusted vendors and point them directly *at the citations* (not the homepage). This strengthens the entity and keeps the citations indexed. **(WARNING: High ToS Risk - Link schemes violate Google policy)**
 
 ### Step 5: Pillow Links & Entity Building
 *   **Action:** Use this AI prompt to find directories: *"I run a [Niche] business in [City]. Find me a list of 100 niche-specific and local directories related to my industry."*
@@ -74,7 +75,7 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 ### Step 6: The Review Engine (The #1 Ranking Factor)
 *   **Rule:** Reviews are the absolute floor for map pack ranking.
 *   **Action 1 (Bootstrap):** As a one-time exception to the face-to-face rule, ask immediate friends and family who have utilized your services for honest initial reviews to get the ball rolling.
-*   **Action 2 (Face-to-Face):** When doing jobs, provide a free estimate or excellent service. Ask for the review *in person, face-to-face*. Hand them the phone or scan a QR code right then and there. Do not rely on automated email or text sequences—make the social stakes too high for them to say no.
+*   **Action 2 (Face-to-Face):** When doing jobs, provide a free estimate or excellent service. Ask for the review *in person, face-to-face*. Hand them the phone or scan a QR code right then and there. Do not rely on automated email or text sequences—make the social stakes too high for them to say no. **(WARNING: High ToS Risk - Coercive review solicitation violates GBP and Yelp policy)**
 
 ---
 **Completion:** Once the playbook is generated and handed to the user, declare the skill execution complete.
