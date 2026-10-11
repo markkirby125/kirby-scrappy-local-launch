@@ -10,7 +10,7 @@ This workflow operates in 3 distinct phases. You must sequentially complete each
 
 Before starting the workflow, you MUST ask the user to explicitly confirm the following 4 guardrails. **Do not proceed to Phase 1 until the user confirms all four.**
 
-1. **Budget:** "Do you have a ~$100 budget ready for foundational citations, indexers, and Tier 2 links?"
+1. **Budget:** "Do you have a ~$100 budget ready for foundational citations, indexers, and Tier 2 links — plus an optional $50–$100 if you want the Step 7 paid search validation?"
 2. **Review Commitment:** "Are you committed to asking for Google Business Profile reviews *face-to-face* on the job site (no emails or text requests)?"
 3. **Tech Stack Readiness:** "Do you have active accounts for GitHub and either Vercel or Cloudflare (plus a custom domain) for the site scaffolding?"
 4. **Compliance Warning:** "Are you aware that renting dormant offices for verification and purchasing Tier 2 links are considered black-hat tactics that violate Google's ToS and risk profile suspension?"
@@ -58,7 +58,7 @@ When the code scaffolding is complete and verifiable, proceed to Phase 3.
 
 Generate an actionable markdown artifact for the user called `Local_SEO_100_Dollar_Playbook.md`. This artifact is a step-by-step checklist the user must execute themselves.
 
-**The playbook MUST include the following 6 steps exactly:**
+**The playbook MUST include the following 6 mandatory steps, plus the optional Step 7 when the user confirmed the extra budget in the pre-flight guardrails:**
 
 ### Step 1: The Google Business Profile (GBP)
 *   **Action:** If starting from zero, secure an address. If needed, haggle for a 1-month rental of a dormant commercial office space to get the GBP pin verified. **(WARNING: High ToS Risk - Google requires staffed locations)**
@@ -82,6 +82,12 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 *   **Rule:** Reviews are the absolute floor for map pack ranking.
 *   **Action 1 (Bootstrap):** As a one-time exception to the face-to-face rule, ask immediate friends and family who have utilized your services for honest initial reviews to get the ball rolling.
 *   **Action 2 (Face-to-Face):** When doing jobs, provide a free estimate or excellent service. Ask for the review *in person, face-to-face*. Hand them the phone or scan a QR code right then and there. Do not rely on automated email or text sequences—make the social stakes too high for them to say no. **(WARNING: High ToS Risk - Coercive review solicitation violates GBP and Yelp policy)**
+
+### Step 7 (Optional): Paid Search Validation (+$50–$100)
+*   **Purpose:** Before committing weeks to the organic build-out, validate that the niche + city keyword set has real, high-intent search demand — low-volume small-town markets can look richer in keyword tools than they are in reality.
+*   **Action:** Run a micro Google Ads test for 2–4 weeks: Exact/Phrase match high-intent commercial keywords only, location targeting forced to **"Presence"** (never the default "Presence or interest"), bidding set to **Target Impression Share** with a strict **Max CPC cap**, and the negative-keyword shield installed before spend. Route the traffic to the scaffolded service pages (Phase 2), never a generic homepage.
+*   **Decision rule:** Measurable click volume on high-intent terms = demand confirmed, proceed at full intensity. Near-zero impressions = the market is too thin for search; pivot the city or the niche before investing further in the organic sprint.
+*   **Full mechanics:** Execute per `../../kirby-paid-acquisition/SKILL.md` Module 3 (Local Micro-Market PPC) — the low-volume bidding and targeting rules there are mandatory for this test; Smart Bidding is forbidden at these volumes.
 
 ---
 **Completion:** Once the playbook is generated and handed to the user, declare the skill execution complete.
