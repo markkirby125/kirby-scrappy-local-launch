@@ -48,6 +48,7 @@ Using the discovery context, your task is to scaffold a lightning-fast static si
     *   `src/pages/locations/[location].astro` or explicit files: Pages for specific target areas.
     *   **Intersection Pages:** Pages that cross-reference service and location (e.g., `src/pages/bookkeeping-for-construction-fort-worth.astro`).
 3.  Draft the content inside these `.astro` pages using SEO best practices (H1, meta title, clear service intent).
+4.  **Differentiation Components (Sept 24, 2026 Spam Update doctrine):** For every location page, wire the lazy-loaded suburban polygon map embed, the neighbor-to-neighbor travel-time block, and the per-page Service JSON-LD generator from `./module_1_location_asset_templates.md`. Location pages without these components (and without ≥50% area-specific substance) are doorway-spam exposure — see `../../kirby-local-seo/SKILL.md` Module 7.
 
 When the code scaffolding is complete and verifiable, proceed to Phase 3.
 
