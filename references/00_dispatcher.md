@@ -49,6 +49,8 @@ Using the discovery context, your task is to scaffold a lightning-fast static si
     *   **Intersection Pages:** Pages that cross-reference service and location (e.g., `src/pages/bookkeeping-for-construction-fort-worth.astro`).
 3.  Draft the content inside these `.astro` pages using SEO best practices (H1, meta title, clear service intent).
 4.  **Differentiation Components (Sept 24, 2026 Spam Update doctrine):** For every location page, wire the lazy-loaded suburban polygon map embed, the neighbor-to-neighbor travel-time block, and the per-page Service JSON-LD generator from `./module_1_location_asset_templates.md`. Location pages without these components (and without ≥50% area-specific substance) are doorway-spam exposure — see `../../kirby-local-seo/SKILL.md` Module 7.
+5.  **Transparent Pricing & AI Overview Hardware:** Scaffold a dedicated `PricingTable.astro` component featuring clear base price floors and cost-driver ranges. Explicit on-page pricing is required for Google AI Overviews and Google Ask Maps to cite the business when local searchers query *'how much does [service] cost in [city]'* (see `../../kirby-local-seo/SKILL.md` Module 8 §8.1).
+6.  **Trust & Live Review Embed:** Wire a live Google Business Profile review embed widget above the fold. Banish static copy-pasted blockquotes, and strictly ban auto-rotating hero image carousels or sliders (`../../kirby-text-first-cro/SKILL.md` §1.5).
 
 When the code scaffolding is complete and verifiable, proceed to Phase 3.
 
@@ -63,6 +65,7 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 ### Step 1: The Google Business Profile (GBP)
 *   **Action:** If starting from zero, secure an address. If needed, haggle for a 1-month rental of a dormant commercial office space to get the GBP pin verified. **(WARNING: High ToS Risk - Google requires staffed locations)**
 *   **Goal:** Claim and verify the GBP.
+*   **Continuous Photo Velocity Rule:** Take 1–2 authentic photos of every completed job site or customer installation and upload them to the GBP immediately. High photo volume is the primary physical signal that allows Service Area Businesses to outrank established storefronts (`../../kirby-local-seo/SKILL.md` Module 8 §8.1).
 
 ### Step 2: Citations & Foundational Links (Cost: ~$20)
 *   **Action:** Purchase consistent NAP (Name, Address, Phone) citations from vendors on Fiverr, Upwork, or Local Rank.
