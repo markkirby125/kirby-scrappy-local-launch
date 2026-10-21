@@ -51,6 +51,7 @@ Using the discovery context, your task is to scaffold a lightning-fast static si
 4.  **Differentiation Components (Sept 24, 2026 Spam Update doctrine):** For every location page, wire the lazy-loaded suburban polygon map embed, the neighbor-to-neighbor travel-time block, and the per-page Service JSON-LD generator from `./module_1_location_asset_templates.md`. Location pages without these components (and without ≥50% area-specific substance) are doorway-spam exposure — see `../../kirby-local-seo/SKILL.md` Module 7.
 5.  **Transparent Pricing & AI Overview Hardware:** Scaffold a dedicated `PricingTable.astro` component implementing `../../kirby-text-first-cro/SKILL.md` §17 and `../../kirby-local-seo/SKILL.md` Module 8 §8.1.
 6.  **Trust & Live Review Embed:** Wire a live Google Business Profile review embed widget above the fold (`../../kirby-local-seo/SKILL.md` Module 8 §8.1) and enforce the static-hero rule (`../../kirby-text-first-cro/SKILL.md` §1.5).
+7.  **Post-Launch Graduation to Core 30:** Keep the initial $100 build lean (5-page / core intersection scaffolding). Once monthly revenue and multi-service expansion warrant full city domination, graduate the sitemap to the 30-to-38-page **Core 30 Website Architecture** via `../../kirby-local-seo/SKILL.md` Module 11.
 
 When the code scaffolding is complete and verifiable, proceed to Phase 3.
 
@@ -65,7 +66,8 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 ### Step 1: The Google Business Profile (GBP)
 *   **Action:** If starting from zero, secure an address. If needed, haggle for a 1-month rental of a dormant commercial office space to get the GBP pin verified. **(WARNING: High ToS Risk - Google requires staffed locations)**
 *   **Goal:** Claim and verify the GBP.
-*   **Continuous Photo Velocity Rule:** Take 1–2 authentic photos of every completed job site or customer installation and upload them to the GBP immediately. High photo volume is the primary physical signal that allows Service Area Businesses to outrank established storefronts (`../../kirby-local-seo/SKILL.md` Module 8 §8.1).
+*   **Video Verification Script:** Execute the 3-phase continuous-take video verification script (street sign -> key fob vehicle unlock -> tools & legal invoices) per `../../kirby-local-seo/SKILL.md` Module 12 §12.1.
+*   **Continuous Photo Velocity & Second-Click CTR Gate:** Take 1–2 authentic photos of every completed job site or customer installation and upload them to the GBP immediately (`../../kirby-local-seo/SKILL.md` Module 8 §8.1). Because Google removed the direct click-to-call button from the 3-pack preview snippet, optimize the cover photo, review snippet preview, and Google Business Messages per `../../kirby-text-first-cro/SKILL.md` §18 to earn the second click.
 
 ### Step 2: Citations & Foundational Links (Cost: ~$20)
 *   **Action:** Purchase consistent NAP (Name, Address, Phone) citations from vendors on Fiverr, Upwork, or Local Rank.
@@ -84,7 +86,7 @@ Generate an actionable markdown artifact for the user called `Local_SEO_100_Doll
 ### Step 6: The Review Engine (The #1 Ranking Factor)
 *   **Rule:** Reviews are the absolute floor for map pack ranking.
 *   **Action 1 (Bootstrap):** As a one-time exception to the face-to-face rule, ask immediate friends and family who have utilized your services for honest initial reviews to get the ball rolling.
-*   **Action 2 (Face-to-Face):** When doing jobs, provide a free estimate or excellent service. Ask for the review *in person, face-to-face*. Hand them the phone or scan a QR code right then and there. Do not rely on automated email or text sequences—make the social stakes too high for them to say no. **(WARNING: High ToS Risk - Coercive review solicitation violates GBP and Yelp policy)**
+*   **Action 2 (Face-to-Face over 4G/5G):** When doing jobs, provide a free estimate or excellent service. Ask for the review *in person, face-to-face*. Have the customer scan a QR code on their own mobile phone over **4G/5G cellular data** — never hand them your own device and never have them submit while connected to the same on-premise Wi-Fi network, which triggers Google's IP-collision spam filter (`../../kirby-local-seo/SKILL.md` Module 10 §10.2). **(WARNING: High ToS Risk - Coercive review solicitation violates GBP and Yelp policy)**
 
 ### Step 7 (Optional): Paid Search Validation (+$50–$100)
 *   **Purpose:** Before committing weeks to the organic build-out, validate that the niche + city keyword set has real, high-intent search demand — low-volume small-town markets can look richer in keyword tools than they are in reality.
