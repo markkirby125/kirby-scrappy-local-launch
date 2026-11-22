@@ -33,7 +33,7 @@ Once the user provides this context, proceed to Phase 2.
 
 ## Phase 2: On-Site Scaffolding (Astro)
 
-Using the discovery context, your task is to scaffold a lightning-fast static site architecture using **Astro**. 
+Using the discovery context, your task is to scaffold a lightning-fast static site architecture using **Astro**. Every commercial service, location, flat-area (`src/pages/[service-area].astro`), and intersection (`src/pages/bookkeeping-for-construction-fort-worth.astro`) page MUST implement the **10-Point Service Page Checklist** (`../../kirby-text-first-cro/SKILL.md` §21, keeping `LocalBusiness` JSON-LD free of `AggregateRating`, `Review`, `AggregateOffer`, and `Offer`); standalone `$4–$10` (single-source case metric, not a market guarantee) aged-domain SSR utility microsites / interactive calculators route to [`kirby-linkable-microsite-factory`](../../kirby-linkable-microsite-factory/SKILL.md). 
 
 **Security & Idempotency Rules:**
 *   **Path Sanitization:** You MUST normalize all inputs (Niche, City, Services) to strictly alphanumeric kebab-case (`^[a-z0-9]([a-z0-9-]{0,63})$`).
